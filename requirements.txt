@@ -4,7 +4,6 @@ click==8.0.3
 mypy-extensions==0.4.3
 pathspec==0.9.0
 platformdirs==2.4.0
-pyinstaller==4.6
 pyinstaller-hooks-contrib==2021.3
 regex==2021.11.10
 tomli==1.2.2
